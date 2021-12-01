@@ -1,6 +1,7 @@
 # Monaco NFT Scripts
 ### Installation
 ~~~
+git clone https://github.com/ericet/monaco.git
 npm install
 ~~~
 
