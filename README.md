@@ -21,3 +21,9 @@ Add your uid and token and run the script
 ~~~
 node autoFollowAndLike
 ~~~
+
+### Auto liking trending posts
+Add your token and run the script
+~~~
+node autoLikeTrending
+~~~
